@@ -1,0 +1,103 @@
+[
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/tLJ5g2N/Virat-Kohli.jpg",
+      "role": "Batsman",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Medium",
+      "price": 1600000
+    },
+    {
+      "playerId": 2,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "image": "https://i.ibb.co.com/DVfdt2z/rohit.jpg",
+      "role": "Batsman",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Off Spin",
+      "price": 1500000
+    },
+    {
+      "playerId": 3,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/r6pzZPJ/BEN-STOKES.jpg",
+      "role": "All-Rounder",
+      "battingStyle": "Left-Hand Bat",
+      "bowlingStyle": "Right-Arm Fast Medium",
+      "price": 1800000
+    },
+    {
+      "playerId": 4,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/ZGRCPCS/Kane-Williamson-in-2019.jpg",
+      "role": "Batsman",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Off Spin",
+      "price": 1700000
+    },
+    {
+      "playerId": 5,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/s1fcLpJ/Pat-Cummins.jpg",
+      "role": "Bowler",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Fast",
+      "price": 1400000
+    },
+    {
+      "playerId": 6,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/gDRC33V/rashid.jpg",
+      "role": "Bowler",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Leg Spin",
+      "price": 1300000
+    },
+    {
+      "playerId": 7,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/SN4DrYW/david.jpg",
+      "role": "Batsman",
+      "battingStyle": "Left-Hand Bat",
+      "bowlingStyle": "None",
+      "price": 1600000
+    },
+    {
+      "playerId": 8,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/zP9YsQx/Jasprit-Bumrah-in-PMO-New-Delhi.jpg",
+      "role": "Bowler",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Fast",
+      "price": 1400000
+    },
+    {
+      "playerId": 9,
+      "name": "Jos Buttler",
+      "country": "England",
+      "image": "https://i.ibb.co.com/RBzJptG/Jos-Buttler-in-2023.jpg",
+      "role": "Wicketkeeper Batsman",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "None",
+      "price": 1700000
+    },
+    {
+      "playerId": 10,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/JpBT6Qs/trent.jpg",
+      "role": "Bowler",
+      "battingStyle": "Left-Hand Bat",
+      "bowlingStyle": "Left-Arm Fast Medium",
+      "price": 1400000
+    }
+  ]
+  
